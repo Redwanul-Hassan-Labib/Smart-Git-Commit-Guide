@@ -325,4 +325,4 @@ Happy coding & happy committing 🚀
 
 
 ### Redwanul Hasan Labib
-* Full-Stack Web Developer.
+Full-Stack Web Developer.
