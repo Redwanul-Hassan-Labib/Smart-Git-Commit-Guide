@@ -325,4 +325,4 @@ Happy coding & happy committing 🚀
 
 
 ### Redwanul Hasan Labib
- ## Full-Stack Web Developer | Specializing in Responsive Design and Seamless User Experience | HTML/CSS, JavaScript, Node.js, Python & Frameworks React.js, Express.js, Django | Creating Interactive Websites Business Growth.
+* Full-Stack Web Developer.
